@@ -1,0 +1,6 @@
+{
+  "name": "Aura Grand Hotel Management",
+  "description": "Streamlined hotel management system for booking, express check-in, guest room maintenance, and staff operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
